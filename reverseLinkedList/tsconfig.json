@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2020", // Define a versão do JS que o TS irá gerar
+    "module": "ESNext", // Sistema de módulos
+    "lib": ["DOM", "ES2020"], // Bibliotecas incluídas
+    "allowJs": true, // Permite arquivos .js
+    "checkJs": false, // Não checa arquivos JS
+    "jsx": "react-jsx", // Para projetos React 17+
+    "strict": true, // Ativa todas as checagens estritas
+    "moduleResolution": "node", // Resolucao de módulos
+    "esModuleInterop": true, // Compatibilidade com módulos CommonJS
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "noEmit": true // Não gera arquivos JS (usado com bundlers como Vite/webpack)
+  },
+  "include": ["main.ts"], // Pasta com código fonte
+  "exclude": ["node_modules", "dist"] // Pastas a excluir
+}

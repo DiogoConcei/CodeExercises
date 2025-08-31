@@ -1,10 +1,27 @@
 {
-  "compilerOptions": {
-    "target": "ES2017" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
-    "module": "commonjs" /* Specify what module code is generated. */,
-    "esModuleInterop": true /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */,
-    "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */,
-    "strict": true /* Enable all strict type-checking options. */,
-    "skipLibCheck": true /* Skip type checking all .d.ts files. */
-  }
+  "files": [],
+  "references": [
+    { "path": "./ContainsDuplicate" },
+    { "path": "./FirstUniqueCharacter" },
+    { "path": "./Greatest Common Divisor of Strings" },
+    { "path": "./Kids with candies" },
+    { "path": "./Merge Strings" },
+    { "path": "./MergeSortedArray" },
+    { "path": "./MiddleOfTheList" },
+    { "path": "./Pascal Triangle" },
+    { "path": "./Pascal Triangle II" },
+    { "path": "./PlaceFlowers" },
+    { "path": "./PlusOne" },
+    { "path": "./Remove Duplicates" },
+    { "path": "./RemoveElement" },
+    { "path": "./reverseLinkedList" },
+    { "path": "./ReverseString" },
+    { "path": "./ReverseString_III" },
+    { "path": "./Sliding_Window" },
+    { "path": "./Sqrt(x)" },
+    { "path": "./TwoSum" },
+    { "path": "./Vowels of a String" },
+    { "path": "./ListCycle" },
+    { "path": "./MergeLists" }
+  ]
 }
