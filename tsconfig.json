@@ -1,27 +1,4 @@
 {
   "files": [],
-  "references": [
-    { "path": "./ContainsDuplicate" },
-    { "path": "./FirstUniqueCharacter" },
-    { "path": "./Greatest Common Divisor of Strings" },
-    { "path": "./Kids with candies" },
-    { "path": "./Merge Strings" },
-    { "path": "./MergeSortedArray" },
-    { "path": "./MiddleOfTheList" },
-    { "path": "./Pascal Triangle" },
-    { "path": "./Pascal Triangle II" },
-    { "path": "./PlaceFlowers" },
-    { "path": "./PlusOne" },
-    { "path": "./Remove Duplicates" },
-    { "path": "./RemoveElement" },
-    { "path": "./reverseLinkedList" },
-    { "path": "./ReverseString" },
-    { "path": "./ReverseString_III" },
-    { "path": "./Sliding_Window" },
-    { "path": "./Sqrt(x)" },
-    { "path": "./TwoSum" },
-    { "path": "./Vowels of a String" },
-    { "path": "./ListCycle" },
-    { "path": "./MergeLists" }
-  ]
+  "references": [{ "path": "./Two-Sum" }, { "path": "./Contains-Duplicate-II" }]
 }
